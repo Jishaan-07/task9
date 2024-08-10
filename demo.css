@@ -1,0 +1,14 @@
+#id1{
+    color: black;
+    background-color: blue;
+}
+p{
+    color: aqua;
+    background-color: blueviolet;
+}
+button{
+    color: aliceblue;
+    background-color: rgb(15, 15, 199);
+    width: 100px;
+    height: 50px;
+}

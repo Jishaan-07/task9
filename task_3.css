@@ -1,0 +1,32 @@
+body{
+    background-image: url(./download.jpeg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+
+h1{
+   color: rgb(20, 20, 129);
+   background-color: rgb(20, 37, 146);
+}
+p{
+    font-size: large;
+    color: hwb(0 7% 47%);
+    font-style:bold ;
+    font-weight: bolder;
+}
+label{
+    color: rgb(175, 23, 23);
+    background-color: rgb(153, 17, 17);
+}
+button{
+    color: rgb(33, 64, 178);
+    background-color: rgb(141, 17, 17);
+    width: 100px;
+    height: 30px;
+}
+h2{
+    background-color: rgb(118, 15, 15);
+    color: rgb(37, 24, 176);
+}

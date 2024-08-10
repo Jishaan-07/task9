@@ -1,0 +1,24 @@
+*{
+   background-color: brown;
+}
+h1
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+div>p{
+    background-color: aqua;
+}
+div>h3{
+    background-color: rgb(224, 44, 155);
+}
+.jishan>p{
+    font-style: normal;
+    background-color: darkorange;
+}
+h5{
+    background-color: aquamarine;
+}
+h5~h6{
+    background-color: chocolate;
+}

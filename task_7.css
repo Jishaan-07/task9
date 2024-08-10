@@ -1,0 +1,191 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkgreen;
+    
+
+}
+.nav{
+    list-style: none;
+    display: inline;
+    margin: 0px 20px;;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    
+   
+}
+.hover{text-decoration: none;
+color: aliceblue;
+font-weight: 600;
+}
+.hover:hover{
+    color: rgb(0, 0, 0);
+    text-decoration: solid;
+}
+.home{
+    background-color: dimgrey;
+}
+#kitchen{
+    width: 100%;
+    height: 500px;
+}
+#text{
+    font-family: "Titillium Web", sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: -300px;
+font-size: 80px;
+    color: rgb(255, 255, 255);
+}
+#ind_menu{
+    font-family: "Titillium Web", sans-serif;
+}
+#ddd{
+    font-family: "Titillium Web", sans-serif;
+}
+#bbb{
+    font-family: "Titillium Web", sans-serif;
+}
+#text2{
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    margin-top: -50px;
+font-size: 20px;
+}
+.imagesss{
+    display: flex;
+}
+#indianfd{
+    width: 250px;
+    height: 300px;
+    align-items: center;
+    margin-left: 40%;
+}
+#indian{
+  margin-left: -190px;
+margin-top: 260px;
+color: aliceblue;
+}
+#desert{
+    width: 250px;
+    height: 300px;
+    align-items: center;
+    margin-left: -460px;
+    margin-top: 20px;
+}
+
+#Burger_Varities{
+    width: 250px;
+    height: 300px;
+    align-items: center;
+    margin-left: 330px;
+    margin-top: 20px;
+}
+#Burger_v{
+    margin-top: 35vh;
+    margin-left: -30vh;
+    color: aliceblue;
+}
+#ind_menu{
+   text-align: center;
+   font-size: xxx-large;
+}
+#menubar{
+    margin: 15% 8% 0px 50px;  
+}
+#order{
+    text-decoration: none;
+    background-color: darkgreen;
+    color: aliceblue;
+    border-radius: 15px;
+
+    display: inline-block;
+    margin-left:300px ;
+}
+#india{
+    margin-top: -100px;
+}
+.indfd2{
+    margin-left: 35%;
+    margin-top:-445px;
+}
+.indfd3{
+    margin-left: 70%;
+    margin-top:-445px;
+}
+.dsrt2{
+    margin-left: 35%;
+    margin-top:-470px;
+}
+.dsrt3{
+    margin-left: 70%;
+    margin-top:-465px;
+}
+.brgr2{
+    margin-left: 35%;
+    margin-top:-425px;
+}
+.brgr3{
+    margin-left: 70%;
+    margin-top:-420px;
+}
+.footer1{
+    background-color: darkolivegreen;
+    width: 100%;
+    height: 400px;
+    margin-top: 50px;
+}
+#about{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#footerhead{
+    margin-top: -280px;
+    margin-left: 80px;
+}
+#con{
+    margin-left: 50px;
+}
+#youtube{
+    margin-left: 110vh;
+    margin-top: -160vh;
+}
+.footer2{
+    background-color: darkgreen;
+    width: 100%;
+    height: 300px;
+
+}
+.footer2{
+    color: aliceblue;
+
+}
+.ft2{
+ margin-left: 50%;
+ align-items: center;
+ display: inline-block;
+    justify-content: space-between;
+}
+
+.ft3{
+    margin-left: 75%;
+    align-items: center;
+ display: inline-block;
+    justify-content: space-between;
+    margin-top: -75px;
+}
+.ft1{
+margin-top: -20px;
+}
+#label{
+    text-decoration: none;
+    background-color: rgb(42, 207, 42);
+    color: aliceblue;
+    border-radius: 5px;
+
+    display: inline-block;
+    
+}
